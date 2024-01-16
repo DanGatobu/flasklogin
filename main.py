@@ -19,8 +19,6 @@ app=Flask(__name__)
 
 
 
-# engine = create_engine('postgresql+psycopg2://postgres:dannewton\
-# @localhost/login',echo=True)
 
 session=sessionmaker()
 
